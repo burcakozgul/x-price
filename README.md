@@ -10,6 +10,7 @@ This project compares the prices of product on N11, Hepsiburada and Trendyol web
 * Spring Boot Cache
 * Jsoup
 * Lombok
+* Mockito
 
 `curl --location 'localhost:8080/api/product/price/1'
 `
